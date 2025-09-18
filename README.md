@@ -288,3 +288,5 @@ Made with ❤️ for the Muslim Ummah by Hayredin950
 <!-- Update for docs: update full README with premium content -->
 
 <!-- Update for fix: final bug fixes and polish before release -->
+
+<!-- Update -->
