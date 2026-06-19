@@ -1,0 +1,383 @@
+i want it have good best premium mushafs and audo tefseer/hadith with playist or other organisation upload and downlaod functionlity and all thing menstion in the pasted text and all functionlity the image i have provided you have and with perfectlu working
+i want tor integreate mushaf and real funcionalities to each part not just ui only or hardcoded but real working backend with database and ai and other framwork integration
+
+make good api integratin with other app sot featch real data and give user real date for example the hadith is not fulll it need and ther is no mushaf for reading even the quran is not full text it is just demo what you have built
+but i aske to build that is prduction ready like [5/2/26 10:27 PM] Хайредин: https://hadith.gtaf.org/
+[5/2/26 10:28 PM] Хайредин: https://hadeethenc.com/en/home
+[5/2/26 10:28 PM] Хайредин: https://sunnah.com/
+tartil,quran app, hadith collection and other famous apps so use any needed tech fremwork api inegration, ai , rag system ,any concept to make it realy working app
+The other thing is you would do the mushab good but what if you make the user tune between different mushab types?
+
+Also when hovering over some ayah, for example, or clicking it, I don't know. For example when someone hovers over it maybe you pop up apps to read the tabs here or the translation or maybe you switch between something. I also wonder if we could make this app upload videos, audio, and other materials into it. For example when I have recorded audio, I can create a playlist and upload it and then other people could get it. For example I usually listen to the Dersh of Ahmed Alem and he usually teaches Tafsir of the Quran. By taking his audio and uploading it into the app, it would make it accessible to other people and they could hear it. I can upload each session, each topic, each session of the Tafsir with the image of the Quran, all the Tafsir. Maybe if it's Harith I will also make the Harith part.
+
+https://tarteel.ai/
+https://www.youtube.com/watch?v=DnYQKa64g5Y
+https://www.youtube.com/watch?v=T6-q_dJsR7c&list=PLyBe0Cxe3fu7hSNpBFI6wO0xooIEkQX2T
+
+goo but i want you to implemet all of the following funcitonality one by one so form now on have a task list table or task list wahterve it is to implement all of them on by one if you need revfrence i have attache you video and website for information but i have listed all functionlity and features to be added as follow[So good you have done good so far but there are two things you left:
+
+    The level of authenticity for each of these currently shows only its sahih, daif, or hasan but there are a lot of levels for hadith so you should consider them.
+    You have to specify why this hadith is called daif, munkar, or fabricated or why it's called such a thing. You have to show the chain of narration and map of all the narrators. Everything you know that helps the user of the app to determine if the hadith is authentic or daif, why it's called daif. The user must have all knowledge about a hadith: what is behind all the hadith, why it's called authentic or not authentic, why it's called fake based on the chain of narration and hadith science. Integrate this type of functionality also.]
+
+
+
+you forgot to integrate the famous tafseers like ibn khathir and others and also theri english version and if possible in ahmaric also bothe the tefseers and the translations
+
+you have to integrat the english one since it exists as you can se in the image there are still missing hadihts like in imam ahmed and still only sahih hadiht but inreality all type of hadiht should exist and in the board it shows only thre level if of hadiht but all if htem are emptyl
+ 
+insome place it says the people are ancknown but it is sahih ? and it only mentions only 3 types of hadith no ahter when classfing the hadiths and it says [Hadith not found or failed to load.
+
+← Back to collection] for some especial for the new comers
+
+
+the chain of naration is only applied for some bukahri hadith only ohte collection does not have it but want to be decriptive wehy that hadith fail in that catecory not gneral reson but specific for each of htem withtghe chain
+
+
+there are still unknow narratore which means they are not in the databse in each collection and in each hadith fid it for exam-ple[
+Chain of Narration (Isnad)
+
+2/6 identified
+Scholars assessed this specific chain as good (Ḥasan). Al-Albani: Ḥasan (Good) · Muhammad Fouad Abd al-Baqi: Ḥasan (Good) · Zubair Ali Zai: Ḍaʿīf (Weak)
+1 chain defect identified
+Legend:
+
+Thiqa/Companion
+Saduq
+Da'if
+Unknown
+1
+
+أحمد بن الأزهر
+
+Unidentified
+narrator not in database
+2
+حدثنا
+(Narrated to us (direct))
+
+آدم
+
+Unidentified
+narrator not in database
+3
+حدثنا
+(Narrated to us (direct))
+
+عيسى بن ميمون
+
+Unidentified
+narrator not in database
+4
+عن
+(From (may be indirect))
+
+القاسم
+
+Unidentified
+narrator not in database
+5
+عن
+(From (may be indirect))
+
+Aisha bint Abi Bakr
+
+Companion
+عَائِشَةُ بِنْتُ أَبِي بَكْرٍ
+
+Companion
+d. 58 AH
+Medina
+أم المؤمنين
+Wife of the Prophet ﷺ and daughter of Abu Bakr al-Siddiq. One of the greatest transmitters of hadith (2,210 hadiths). She was known for her exceptional intelligence, memory, and deep understanding of Islamic law. She corrected many Companions on matters of fiqh.
+
+Notable For
+
+Narrated 2,210 hadiths; primary source for domestic Sunnah
+
+Scholars' Assessments (Jarh wa Ta'dil)
+
+Imam al-Nawawi: "A third of the religion has been transmitted through her"
+Ibn Hajar al-Asqalani: "She surpassed all the Mothers of the Believers in narrating hadith"
+Heard From
+
+• Prophet Muhammad ﷺ
+
+• Abu Bakr al-Siddiq
+
+• Fatima al-Zahra
+
+Transmitted To
+
+• Urwa ibn al-Zubayr
+
+• Masruq ibn al-Ajda
+
+• Alqama ibn Qays
+
+• Ibn Abi Mulayka
+
+6
+سمعت
+(I heard (strongest form))
+
+Prophet Muhammad ﷺ
+
+Companion
+مُحَمَّدٌ رَسُولُ اللَّهِ ﷺ
+
+Prophet
+d. 11 AH
+Mecca / Medina
+المعصوم
+About Isnad Analysis (علم الإسناد)
+
+The chain of narration (isnad) is what makes Islamic hadith science unique. Each narrator was scrutinized for their character (ʿadāla) and precision (ḍabṭ) in the science of al-Jarḥ wa al-Taʿdīl (narrator criticism and authentication). The chain flows from the compiler → narrators → Companion → Prophet ﷺ.]
+
+
+why is the tefseere is different and why the tex layout is compact i have attached you the same ibn kethir tafseer if surah Kawthar and compared it with the app we have now and they are completely different and whyile that have beautfullayout paced explanation good formation but the current one seems to be ai genrated
+
+good apply this type of stylin for other tefseers also
+الجلالين
+الميسر
+القرطبي
+المقباس
+and make them real not ai agenrated
+and prepare amharic replica of tafseere mainly ibnkehtir then other included
+
+
+Website
+16 hours ago
+
+continue
+15 hours ago
+
+i want it have good best premium mushafs and audo tefseer/hadith with playist or other organisation upload and downlaod functionlity and all thing menstion in the pasted text and all functionlity the image i have provided you have and with perfectlu working
+15 hours ago
+
+i want tor integreate mushaf and real funcionalities to each part not just ui only or hardcoded but real working backend with database and ai and other framwork integration
+15 hours ago
+
+make good api integratin with other app sot featch real data and give user real date for example the hadith is not fulll it need and ther is no mushaf for reading even the quran is not full text it is just demo what you have built
+but i aske to build that is prduction ready like [5/2/26 10:27 PM] Хайредин: https://hadith.gtaf.org/
+[5/2/26 10:28 PM] Хайредин: https://hadeethenc.com/en/home
+[5/2/26 10:28 PM] Хайредин: https://sunnah.com/
+tartil,quran app, hadith collection and other famous apps so use any needed tech fremwork api inegration, ai , rag system ,any concept to make it realy working app
+14 hours ago
+
+continue
+14 hours ago
+14 hours ago
+
+https://tarteel.ai/
+https://www.youtube.com/watch?v=DnYQKa64g5Y
+https://www.youtube.com/watch?v=T6-q_dJsR7c&list=PLyBe0Cxe3fu7hSNpBFI6wO0xooIEkQX2T
+
+I I was seeing the app and there are still a lot of hadith left behind. The hadith collection must be in their authenticity level so you should order them according to their authenticity. For example you can see the Bukhari in the front then the Muslim and then the other one.
+
+For example I clicked into al-Bukhari and I see there are a lot of chapters within it. When I clicked for example the revelation part, the revelation chapter which says it contains seven hadith, I only got only one hadith and that is weird.
+
+The other thing is you would do the mushab good but what if you make the user tune between different mushab types?
+
+Also when hovering over some ayah, for example, or clicking it, I don't know. For example when someone hovers over it maybe you pop up apps to read the tabs here or the translation or maybe you switch between something. I also wonder if we could make this app upload videos, audio, and other materials into it. For example when I have recorded audio, I can create a playlist and upload it and then other people could get it. For example I usually listen to the Dersh of Ahmed Alem and he usually teaches Tafsir of the Quran. By taking his audio and uploading it into the app, it would make it accessible to other people and they could hear it. I can upload each session, each topic, each session of the Tafsir with the image of the Quran, all the Tafsir. Maybe if it's Harith I will also make the Harith part.
+13 hours ago
+
+https://tarteel.ai/
+https://www.youtube.com/watch?v=DnYQKa64g5Y
+https://www.youtube.com/watch?v=T6-q_dJsR7c&list=PLyBe0Cxe3fu7hSNpBFI6wO0xooIEkQX2T
+
+goo but i want you to implemet all of the following funcitonality one by one so form now on have a task list table or task list wahterve it is to implement all of them on by one if you need revfrence i have attache you video and website for information but i have listed all functionlity and features to be added as follow[So good you have done good so far but there are two things you left:
+
+    The level of authenticity for each of these currently shows only its sahih, daif, or hasan but there are a lot of levels for hadith so you should consider them.
+    You have to specify why this hadith is called daif, munkar, or fabricated or why it's called such a thing. You have to show the chain of narration and map of all the narrators. Everything you know that helps the user of the app to determine if the hadith is authentic or daif, why it's called daif. The user must have all knowledge about a hadith: what is behind all the hadith, why it's called authentic or not authentic, why it's called fake based on the chain of narration and hadith science. Integrate this type of functionality also.]
+
+13 hours ago
+
+still nof fixed
+13 hours ago
+
+still
+13 hours ago
+13 hours ago
+
+continue
+12 hours ago
+
+still i dont see tafsee for the quran
+12 hours ago
+
+it si not working
+12 hours ago
+
+the tafseer is ai generate but i also wanted the real tefseer exactly word by word and with beautiful display
+12 hours ago
+
+you forgot to integrate the famous tafseers like ibn khathir and others and also theri english version and if possible in ahmaric also bothe the tefseers and the translations
+
+you have to integrat the english one since it exists as you can se in the image there are still missing hadihts like in imam ahmed and still only sahih hadiht but inreality all type of hadiht should exist and in the board it shows only thre level if of hadiht but all if htem are emptyl
+12 hours ago
+
+insome place it says the people are ancknown but it is sahih ? and it only mentions only 3 types of hadith no ahter when classfing the hadiths and it says [Hadith not found or failed to load.
+
+← Back to collection] for some especial for the new comers
+11 hours ago
+
+the chain of naration is only applied for some bukahri hadith only ohte collection does not have it but want to be decriptive wehy that hadith fail in that catecory not gneral reson but specific for each of htem withtghe chain
+11 hours ago
+
+there are still unknow narratore which means they are not in the databse in each collection and in each hadith fid it for exam-ple[
+Chain of Narration (Isnad)
+
+2/6 identified
+Scholars assessed this specific chain as good (Ḥasan). Al-Albani: Ḥasan (Good) · Muhammad Fouad Abd al-Baqi: Ḥasan (Good) · Zubair Ali Zai: Ḍaʿīf (Weak)
+1 chain defect identified
+Legend:
+
+Thiqa/Companion
+Saduq
+Da'if
+Unknown
+1
+
+أحمد بن الأزهر
+
+Unidentified
+narrator not in database
+2
+حدثنا
+(Narrated to us (direct))
+
+آدم
+
+Unidentified
+narrator not in database
+3
+حدثنا
+(Narrated to us (direct))
+
+عيسى بن ميمون
+
+Unidentified
+narrator not in database
+4
+عن
+(From (may be indirect))
+
+القاسم
+
+Unidentified
+narrator not in database
+5
+عن
+(From (may be indirect))
+
+Aisha bint Abi Bakr
+
+Companion
+عَائِشَةُ بِنْتُ أَبِي بَكْرٍ
+
+Companion
+d. 58 AH
+Medina
+أم المؤمنين
+Wife of the Prophet ﷺ and daughter of Abu Bakr al-Siddiq. One of the greatest transmitters of hadith (2,210 hadiths). She was known for her exceptional intelligence, memory, and deep understanding of Islamic law. She corrected many Companions on matters of fiqh.
+
+Notable For
+
+Narrated 2,210 hadiths; primary source for domestic Sunnah
+
+Scholars' Assessments (Jarh wa Ta'dil)
+
+Imam al-Nawawi: "A third of the religion has been transmitted through her"
+Ibn Hajar al-Asqalani: "She surpassed all the Mothers of the Believers in narrating hadith"
+Heard From
+
+• Prophet Muhammad ﷺ
+
+• Abu Bakr al-Siddiq
+
+• Fatima al-Zahra
+
+Transmitted To
+
+• Urwa ibn al-Zubayr
+
+• Masruq ibn al-Ajda
+
+• Alqama ibn Qays
+
+• Ibn Abi Mulayka
+
+6
+سمعت
+(I heard (strongest form))
+
+Prophet Muhammad ﷺ
+
+Companion
+مُحَمَّدٌ رَسُولُ اللَّهِ ﷺ
+
+Prophet
+d. 11 AH
+Mecca / Medina
+المعصوم
+About Isnad Analysis (علم الإسناد)
+
+The chain of narration (isnad) is what makes Islamic hadith science unique. Each narrator was scrutinized for their character (ʿadāla) and precision (ḍabṭ) in the science of al-Jarḥ wa al-Taʿdīl (narrator criticism and authentication). The chain flows from the compiler → narrators → Companion → Prophet ﷺ.]
+11 hours ago
+
+why is the tefseere is different and why the tex layout is compact i have attached you the same ibn kethir tafseer if surah Kawthar and compared it with the app we have now and they are completely different and whyile that have beautfullayout paced explanation good formation but the current one seems to be ai genrated
+11 hours ago
+
+good apply this type of stylin for other tefseers also
+الجلالين
+الميسر
+القرطبي
+المقباس
+and make them real not ai agenrated
+and prepare amharic replica of tafseere mainly ibnkehtir then other included
+11 hours ago
+
+ibn kethir in amharic is not working as expeccted instead of making amharic replica of the beautiful ibnkethir layouted text it generated ai tex in enlishf see the pasted text
+
+
+make it responsive on smaller device also especialy where those the expandeples exist make them by default closed and and even after expaneded if one option is choosed shrink it and do what it does
+and still sunan ahmed donot have hadith chapter nor one hadith and many other have no chain data it says only loading proceesing 
+
+make the side bar[
+Al-Muhandis
+
+Islamic Intelligence
+
+Home
+Quran Reader
+Mushaf
+Memorization
+Khatmah
+Analytics
+Hadith
+Search
+Bookmarks
+Topics
+Ask Scholar
+Settings
+] collapsibel for desctop also
+4 hours ago
+
+still not premium nor beaatutiful
+4 hours ago
+
+increase the wiedth of the side bar a little bit and so that the logo does not shring in both expanded and shringk state
+4 hours ago
+
+still empty musnad ahmed si [Musnad Ahmad
+Imam Ahmad ibn Hanbal
+
+The largest known hadith collection, organized by Companion. Imam Ahmad compiled it during a time of severe persecution.
+
+مسند أحمد
+
+3rd Century AH
+
+27,647
+hadiths]empty as you can see
+good but the expnashin button should not cover the logo

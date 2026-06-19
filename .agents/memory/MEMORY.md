@@ -1,0 +1,4 @@
+- [Al-Muhandis stack](al-muhandis-stack.md) — React+Vite+Tailwind v4 frontend, Express+TS API, PostgreSQL+Drizzle, Clerk dev keys, OpenAI via Replit integration
+- [Tafseer source IDs](tafseer-sources.md) — Valid IDs: ai-generated, ar.jalalayn, ar.muyassar, ar.qurtubi, ar.miqbas, en.ibn-kathir, am.sadiq (NOT am.ibn-kathir)
+- [Prayer times approach](prayer-times.md) — Aladhan API free endpoint, cached in sessionStorage per day, uses geolocation coordinates
+- [zod in api-server](api-server-zod.md) — Must add "zod": "catalog:" to artifacts/api-server/package.json explicitly; not inherited from workspace packages
